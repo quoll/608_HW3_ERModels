@@ -1,5 +1,7 @@
 # 608_HW3_ERModels
-HW3 for CMSC 608
+Homework 3 for CMSC 608.
+
+This assignment is to create an ER Model from a given dataset. Saved to [Github](https://github.com/quoll/608_HW3_ERModels/).
 
 ## ER Models
 The requirements for this assignment are as follows:
