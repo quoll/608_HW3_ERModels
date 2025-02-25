@@ -242,7 +242,7 @@
             <mxRectangle width="40" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pbfAJSDoTi42zDe_5o8m-63" value="season" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="pbfAJSDoTi42zDe_5o8m-61">
+        <mxCell id="pbfAJSDoTi42zDe_5o8m-63" value="season_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="pbfAJSDoTi42zDe_5o8m-61">
           <mxGeometry x="40" width="140" height="20" as="geometry">
             <mxRectangle width="140" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -268,7 +268,7 @@
             <mxRectangle width="40" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pbfAJSDoTi42zDe_5o8m-69" value="payment_method" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="pbfAJSDoTi42zDe_5o8m-67">
+        <mxCell id="pbfAJSDoTi42zDe_5o8m-69" value="payment_method_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="pbfAJSDoTi42zDe_5o8m-67">
           <mxGeometry x="40" width="140" height="20" as="geometry">
             <mxRectangle width="140" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -281,7 +281,7 @@
             <mxRectangle width="40" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pbfAJSDoTi42zDe_5o8m-72" value="shipping_type" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="pbfAJSDoTi42zDe_5o8m-70">
+        <mxCell id="pbfAJSDoTi42zDe_5o8m-72" value="shipping_type_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="pbfAJSDoTi42zDe_5o8m-70">
           <mxGeometry x="40" width="140" height="20" as="geometry">
             <mxRectangle width="140" height="20" as="alternateBounds" />
           </mxGeometry>
